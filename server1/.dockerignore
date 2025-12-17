@@ -1,0 +1,15 @@
+db/*.json
+db/*.db
+__pycache__
+.vscode
+.Python
+dist
+build
+.git
+.gitignore
+.venv
+venv/
+ENV/
+.DS_Store
+*.md
+.pytest_cache
